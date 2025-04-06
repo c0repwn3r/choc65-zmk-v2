@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <choc65-layouts.dtsi>
+#include "choc65-layouts.dtsi"
 
 &physical_layout0 {
 	kscan = <&kscan0>;
